@@ -5,7 +5,7 @@ LangGraph 에이전트 스터디 레포지토리
 ## Members
 
 * [silverttthin](https://github.com/silverttthin)
-* [won2eu](https://www.google.com/search?q=https://github.com/won2eu)
+* [won2eu](https://github.com/won2eu)
 
 ## Curriculum
 
